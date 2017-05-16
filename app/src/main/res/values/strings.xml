@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_scrolling">波平</string>
+    <string name="large_text">
+        "店舗情報 \n\n"
+        "営業時間 17時〜24時（ラストオーダー23時）\n"
+        "17時〜20時は生ビール、ハイボール、日本酒、サワー各種は半額です。"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
